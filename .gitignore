@@ -1,0 +1,5 @@
+minizip
+minizip.exe
+*.o
+*.huff
+*.out
